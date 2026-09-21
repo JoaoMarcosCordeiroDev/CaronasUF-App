@@ -6,7 +6,7 @@
 
 - Essa experiência me permitiu conectar pesquisa e desenvolvimento prático, aprimorando habilidades em engenharia de software, mobilidade urbana e tecnologia mobile. Além disso, esse artigo me proporcionou o título de Bacharel em Ciência da Computação.
 
-  ## ``` ~~~ English -> ```
+  ## ``` ~~~ -> ```
   
 - It is with great pleasure that I share this achievement with you: the CaronasUF project and the inspirations behind it.
 
