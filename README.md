@@ -6,7 +6,7 @@
 
 - Essa experiência me permitiu conectar pesquisa e desenvolvimento prático, aprimorando habilidades em engenharia de software, mobilidade urbana e tecnologia mobile. Além disso, esse artigo me proporcionou o título de Bacharel em Ciência da Computação.
 
-  ## ``` ~~~ -> ```
+  ## ``` ~~~-> ```
   
 - It is with great pleasure that I share this achievement with you: the CaronasUF project and the inspirations behind it.
 
@@ -34,7 +34,7 @@ Palavras-chaves: Catástrofes Climáticas; Sustentabilidade; Aplicativo de Caron
 
 
 
-## ``` ~~~ English -> ```
+## ```~~~-> ```
 ## Article - [monografia_joaomarcos__definitiva.pdf](https://github.com/user-attachments/files/20510715/monografia_joaomarcos__definitiva.pdf)
 ##  ``` Theme: Proposal for a Ride-Sharing App to Address Transportation Needs at the Federal University of Jataí. ```
 
