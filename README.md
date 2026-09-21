@@ -1,4 +1,4 @@
-🎓 Desenvolvimento de Aplicativo + Publicação de Artigo | 🎓 App Development + Article Publication
+ App Development + Article Publication
 
 - É com grande felicidade que venho aqui compartilhar com vocês essa conquista, o projeto CaronasUF e quais foram suas inspirações.
 
@@ -15,7 +15,7 @@
 - This experience allowed me to connect research with practical development, enhancing my skills in software engineering, urban mobility, and mobile technology. In addition, this article granted me the Bachelor’s degree in Computer Science.
 
 
-## Artigo - [monografia_joaomarcos__definitiva.pdf](https://github.com/user-attachments/files/20510715/monografia_joaomarcos__definitiva.pdf)
+
 ## ``` Tema : Proposta de um App de carona para suprir a necessidade de transporte para Universidade Federal de Jataí. ```
 
 ## Resumo referente ao artigo: 
@@ -35,7 +35,6 @@ Palavras-chaves: Catástrofes Climáticas; Sustentabilidade; Aplicativo de Caron
 
 
 ## ```~~~-> ```
-## Article - [monografia_joaomarcos__definitiva.pdf](https://github.com/user-attachments/files/20510715/monografia_joaomarcos__definitiva.pdf)
 ##  ``` Theme: Proposal for a Ride-Sharing App to Address Transportation Needs at the Federal University of Jataí. ```
 
 ## Abstract referring to the article: 
